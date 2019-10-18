@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/lcc5/Documents/log/bib/AnalyticTableaux.cpp
+AnalyticTableaux.h
+/cygdrive/c/Users/lcc5/Documents/log/bib/AnalyticTableaux.h
+iostream
+-
+
+/cygdrive/c/Users/lcc5/Documents/log/bib/AnalyticTableaux.h
+string
+-
+vector
+-
+regex
+-
+
+/cygdrive/c/Users/lcc5/Documents/log/main.cpp
+bib/AnalyticTableaux.cpp
+/cygdrive/c/Users/lcc5/Documents/log/bib/AnalyticTableaux.cpp
+bits/stdc++.h
+-
+
